@@ -3,7 +3,7 @@
 ## Built With
 
 * Next.js
-* Tailwind.css
+* Tailwind CSS
 * MongoDB
 * Next-Auth
 
